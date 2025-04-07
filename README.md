@@ -1,7 +1,8 @@
 # Model Context Protocol (MCP) Documentation
 
-This documentation provides an in-depth overview of the Model Context Protocol (MCP). The protocol serves as a standardized interface for connecting AI models with diverse data sources and tools, much like a universal port for device connectivity. Below is a comprehensive guide covering its purpose, architecture, user roles, resources, and more.
-Link : https://modelcontextprotocol.io.
+This documentation provides an in-depth overview of the Model Context Protocol (MCP). The protocol serves as a standardized interface for connecting AI models with diverse data sources and tools, much like a universal port for device connectivity. Below is a comprehensive guide covering its purpose, architecture, user roles, resources, and more.  
+Link: [https://modelcontextprotocol.io](https://modelcontextprotocol.io).
+
 ---
 
 ## 1. Overview
@@ -59,6 +60,7 @@ MCP is built on a client-server model that establishes clear roles and responsib
 This modular architecture facilitates scalability, reliability, and ease of maintenance, ensuring that each component can be developed, updated, and secured independently.
 
 ---
+
 ## 6. Conclusion
 
 The Model Context Protocol (MCP) represents a significant advancement in standardizing AI integration. By providing a modular, secure, and flexible framework, MCP empowers developers to build sophisticated AI systems and workflows with efficiency. Through its comprehensive resources, community-driven contributions, and well-defined architecture, MCP lays the groundwork for future innovations in the realm of large language models and beyond.
