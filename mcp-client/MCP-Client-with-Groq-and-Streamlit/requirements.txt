@@ -1,0 +1,22 @@
+python-dotenv
+httpx
+feedparser
+mcp
+fastapi
+uvicorn
+langchain-groq
+langchain==0.3.27
+langchain-core==0.3.76
+langchain-google-genai==2.1.10
+langchain-mcp-adapters==0.1.9
+langchain-openai==0.3.33
+langchain-text-splitters==0.3.11
+langgraph==0.6.7
+langgraph-checkpoint==2.1.1
+langgraph-prebuilt==0.6.4
+langgraph-sdk==0.2.6
+langsmith==0.4.27
+# --- Streamlit UI ---
+streamlit
+
+# Python 3.13.5
